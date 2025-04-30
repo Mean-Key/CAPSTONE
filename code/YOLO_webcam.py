@@ -122,7 +122,7 @@ def pause_frame():
             for cls_id, count in class_counter.items()
             if count >= 3
         ]
-        print("🛑 감지 정지됨. 감지된 클래스:", last_detected_classes)
+        print("감지 정지됨. 감지된 클래스:", last_detected_classes)
         if class_counter:
             most_common_cls_id = max(class_counter.items(), key=lambda x: x[1])[0]
             most_common_name = model.names[most_common_cls_id]
