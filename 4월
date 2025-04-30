@@ -2,13 +2,16 @@
 
 특정 16개 브랜드 로고 학습
 
-Apple, BMW, 아우디, 게스, 나이키, 내셔널지오그래픽, 노스페이스, 뉴발란스,    
-데상트, 르꼬끄, 아디다스, 엄브로, 유니클로, 올리브영, 이마트24, 스타벅스
+adidas1, adidas2, Apple, BLACKYAK,
+DESCENTE, GUESS, KANGOL, le coq sportif,
+NATIONAL GEOGRAPHIC, New Balance, NIKE, STARBUCKS,
+THE NORTH FACE, umbro, UNIQLO, VANS
+
 
 사용 라벨링 툴   
 makesense.ai
 
-
+YOLO 학습 데이터 구조
 dataset/    
 ├── images/    
 │   ├── train/    
