@@ -32,3 +32,6 @@
 ### 5. 홈페이지 : https://github.com/Mean-Key/CAPSTONE
 
 (점차 내용을 추가시켜 나갈 예정입니다.)
+
+### 6. 데모
+[![Pokedex Page](img/sample_pokedex.png))](https://github.com/user-attachments/assets/7dc804b0-3829-42fd-8298-5f7b2b1e6402)
