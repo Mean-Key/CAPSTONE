@@ -35,7 +35,8 @@
 
 ### 6. 데모
 
-https://github.com/user-attachments/assets/e2fbe685-1321-4f55-b928-7a916d8723cf
+![test](https://github.com/user-attachments/assets/e2fbe685-1321-4f55-b928-7a916d8723cf)   
 
+![test](https://github.com/user-attachments/assets/54c9dd64-edfb-45ea-92d3-11c750b79879)
 
 
