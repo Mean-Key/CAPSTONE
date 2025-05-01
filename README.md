@@ -34,4 +34,8 @@
 (점차 내용을 추가시켜 나갈 예정입니다.)
 
 ### 6. 데모
-[!test](https://github.com/user-attachments/assets/096f184f-a3f9-4274-b81d-f3798438fa42)
+
+https://github.com/user-attachments/assets/e2fbe685-1321-4f55-b928-7a916d8723cf
+
+
+
