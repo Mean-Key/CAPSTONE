@@ -40,4 +40,4 @@
 ![test.gif](https://github.com/user-attachments/assets/54c9dd64-edfb-45ea-92d3-11c750b79879)
 
 ### 7. 캡스톤(1)에서 변경 사항
-
+![AtoB](https://github.com/Mean-Key/CAPSTONE/blob/main/img/1to2.png)
