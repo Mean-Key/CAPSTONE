@@ -29,7 +29,7 @@
 - 실시간으로 그림판을 반영하여 인식하는 방식의 구현을 어떻게 할지 고민 중입니다.
 
  
-### 5. 홈페이지 : https://github.com/Mean-Key/CAPSTONE
+### 5. 홈페이지 : https://github.com/Mean-Key/LOGO-to-LOGO
 
 (점차 내용을 추가시켜 나갈 예정입니다.)
 
@@ -40,5 +40,7 @@
 ![test.gif](https://github.com/user-attachments/assets/54c9dd64-edfb-45ea-92d3-11c750b79879)
 
 ### 7. 캡스톤(1)에서 변경 사항
+- 이름 Find LOGO -> LOGO to LOGO 로 변경
+  
 ![AtoB](https://github.com/Mean-Key/CAPSTONE/blob/main/img/1to2.png)
 - 좌측 이미지에는 격자선으로 인하여 길찾기시 벽을 뚫는 현상 발생 -> 우측 이미지처럼 격자선 제거 및 정갈하게 변경
